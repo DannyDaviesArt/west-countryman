@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2020/01/23/1500x500.jpeg"
 layout: landing-page
-heading: Westcountryman
+heading: Les Davies - Westcountryman
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
